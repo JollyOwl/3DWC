@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './src/index.js', // Entry file for your project
+  entry: './src/indeX.js', // Entry file for your project
   output: {
     path: path.resolve(__dirname, 'dist'), // Output folder for bundled files
     filename: 'main.js', // Output file name
